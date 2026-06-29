@@ -103,6 +103,17 @@ Quick-reference guide for finding the right skill for any task.
 |--------------|----------------|
 | ...run plugin tests | `/test` |
 
+### Digital Marketing
+| I need to... | Use this skill |
+|--------------|----------------|
+| ...rank a page / do keyword research / on-page SEO | `/seo-strategist` |
+| ...plan or write blog/content marketing assets | `/content-marketer` |
+| ...write email campaigns, sequences, or newsletters | `/email-marketer` |
+| ...plan or write organic social media content | `/social-media-marketer` |
+| ...build paid ad campaigns and write ad copy | `/ppc-advertiser` |
+| ...write or improve a landing page (CRO) | `/landing-page-optimizer` |
+| ...measure campaigns and interpret marketing metrics | `/marketing-analyst` |
+
 ---
 
 ## Alphabetical Skill Reference

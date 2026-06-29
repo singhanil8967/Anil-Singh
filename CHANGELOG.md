@@ -6,6 +6,13 @@ This project uses [Conventional Commits](https://conventionalcommits.org/) and [
 
 ## [Unreleased]
 
+### Added
+- **Digital marketing skills suite** — seven new skills covering the core digital
+  marketing pillars: `seo-strategist`, `content-marketer`, `email-marketer`,
+  `social-media-marketer`, `ppc-advertiser`, `landing-page-optimizer`, and
+  `marketing-analyst`. Each follows the standard `SKILL.md` frontmatter (alias
+  model + effort) and structure conventions, and is registered in `SKILL_INDEX.md`.
+
 ## [0.92.0] - 2026-06-01
 
 ### Changed
